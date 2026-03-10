@@ -1,1 +1,1 @@
-# scientific_computing_environment
+# Scientific computing environment
